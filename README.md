@@ -1,2 +1,2 @@
-# meal-planner
+# meal-planner-llm
 Meal Planner LLM
